@@ -7,5 +7,5 @@ The FlowerWorks will develope more projects, free, easy to use and without any i
 
 -------
 
-Want to join us? send eamil to nalanyinyun@nalanyinyun.top or just create an issue in this repository.  
+Want to join us? send eamil to nalanyinyun@flowersworks.onmicrosoft.comm or just create an issue in this repository.  
 To get more infomation, refer to [The FlowerWorks](https://flowerworks.nalanyinyun.top)  
